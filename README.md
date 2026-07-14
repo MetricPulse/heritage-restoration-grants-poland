@@ -57,6 +57,7 @@ Key indicators include:
 The GIS component presents a county-level choropleth map showing funding per resident (PLN), calculated using county population statistics published by Statistics Poland (2023).
 
 ---
+## Tools
 
 | Tool | Purpose |
 |------|---------|
