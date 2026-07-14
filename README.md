@@ -7,7 +7,6 @@
 Interactive Power BI dashboard and GIS analysis of projects funded under the first edition of the Polish Government Heritage Restoration Programme.
 
 <img width="4150" height="2400" alt="image" src="https://github.com/user-attachments/assets/2dd81563-4189-414e-aa7e-4e162643dfbc" />
->
 
 
 ---
@@ -52,7 +51,6 @@ Key indicators include:
 ## GIS Analysis
 
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/91c71340-e48c-4d9f-8bc2-646bb8c43077" />
->
 
 
 The GIS component presents a county-level choropleth map showing funding per resident (PLN), calculated using county population statistics published by Statistics Poland (2023).
