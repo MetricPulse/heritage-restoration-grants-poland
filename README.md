@@ -1,4 +1,8 @@
 # Heritage Restoration Grants in Poland
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0066CC?style=for-the-badge)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 Interactive Power BI dashboard and GIS analysis of projects funded under the first edition of the Polish Government Heritage Restoration Programme.
 
