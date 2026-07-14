@@ -57,13 +57,13 @@ The GIS component presents a county-level choropleth map showing funding per res
 
 ---
 
-## Tools
-
-- Power BI
-- DAX
-- Power Query
-- Excel
-- QGIS
+| Tool | Purpose |
+|------|---------|
+| Power BI | Interactive dashboard development |
+| DAX | Measures and KPIs |
+| Power Query | Data cleaning and transformation |
+| Excel | Data preparation |
+| QGIS | Spatial analysis and cartography |
 
 ---
 
