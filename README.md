@@ -2,7 +2,7 @@
 
 Interactive Power BI dashboard and GIS analysis of projects funded under the first edition of the Polish Government Heritage Restoration Programme.
 
-![Dashboard](<<img width="4150" height="2400" alt="z_woj_ (1)" src="https://github.com/user-attachments/assets/645aebbc-0110-4075-a0dc-df98100547e6" />
+<img width="4150" height="2400" alt="z_woj_ (1)" src="https://github.com/user-attachments/assets/645aebbc-0110-4075-a0dc-df98100547e6" />
 
 
 ---
@@ -29,8 +29,8 @@ The analysis combines business intelligence techniques in Power BI with spatial 
 
 ## Dashboard
 
-![Dashboard](
-)
+<img width="2075" height="1200" alt="z_woj__page-0001" src="https://github.com/user-attachments/assets/b5d61569-1c49-46fe-89c6-d3434fc8a081" />
+
 
 Key indicators include:
 
