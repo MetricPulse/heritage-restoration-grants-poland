@@ -51,7 +51,7 @@ Key indicators include:
 
 ## GIS Analysis
 
-<![Uploading image.png…]()
+<<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/91c71340-e48c-4d9f-8bc2-646bb8c43077" />
 >
 
 
