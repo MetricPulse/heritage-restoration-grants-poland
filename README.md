@@ -51,7 +51,8 @@ Key indicators include:
 
 ## GIS Analysis
 
-<img width="3507" height="2480" alt="zabytki" src="https://github.com/user-attachments/assets/32f24af5-8c78-406b-95be-2c2d2d6160ce" />
+<![Uploading image.png…]()
+>
 
 
 The GIS component presents a county-level choropleth map showing funding per resident (PLN), calculated using county population statistics published by Statistics Poland (2023).
