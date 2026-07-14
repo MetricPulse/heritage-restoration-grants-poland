@@ -29,7 +29,7 @@ The analysis combines business intelligence techniques in Power BI with spatial 
 
 ## Dashboard
 
-![Dashboard](<img width="566" height="325" alt="image" src="https://github.com/user-attachments/assets/d2be435d-7ace-4116-9e5b-0975f7973568" />
+![Dashboard](
 )
 
 Key indicators include:
