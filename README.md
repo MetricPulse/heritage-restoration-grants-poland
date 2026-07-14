@@ -46,7 +46,7 @@ Key indicators include:
 
 ## GIS Analysis
 
-![Funding per resident](<img width="3507" height="2480" alt="zabytki" src="https://github.com/user-attachments/assets/32f24af5-8c78-406b-95be-2c2d2d6160ce" />
+<img width="3507" height="2480" alt="zabytki" src="https://github.com/user-attachments/assets/32f24af5-8c78-406b-95be-2c2d2d6160ce" />
 
 
 The GIS component presents a county-level choropleth map showing funding per resident (PLN), calculated using county population statistics published by Statistics Poland (2023).
@@ -65,9 +65,9 @@ The GIS component presents a county-level choropleth map showing funding per res
 
 ## Data Sources
 
-- Polish Government Heritage Restoration Programme – First Edition Results
-- Statistics Poland (GUS) – Population (2023)
-- GADM 4.1 Administrative Boundaries
+- Polish Government Heritage Restoration Programme – First Edition Results (https://www.gov.pl/web/finanse/wyniki-naboru)
+- Statistics Poland (GUS) – Population (2023) (https://bdl.stat.gov.pl/bdl/dane/podgrup/temat)
+- GADM 4.1 Administrative Boundaries 
 
 ---
 
