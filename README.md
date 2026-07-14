@@ -69,12 +69,18 @@ The GIS component presents a county-level choropleth map showing funding per res
 
 ## Data Sources
 
-- Polish Government Heritage Restoration Programme – First Edition Results (https://www.gov.pl/web/finanse/wyniki-naboru)
-- Statistics Poland (GUS) – Population (2023) (https://bdl.stat.gov.pl/bdl/dane/podgrup/temat)
+- Polish Government Heritage Restoration Programme – First Edition Results 
+- Statistics Poland (GUS) – Population (2023) 
 - GADM 4.1 Administrative Boundaries 
 
 ---
+### References
 
+- https://www.gov.pl/web/finanse/wyniki-naboru
+- https://bdl.stat.gov.pl/bdl/dane/podgrup/temat
+- https://gadm.org/
+
+---
 ## Repository Structure
 
 ```
