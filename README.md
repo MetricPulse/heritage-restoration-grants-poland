@@ -15,7 +15,7 @@ Interactive Power BI dashboard and GIS analysis of projects funded under the fir
 
 The Polish Government Heritage Restoration Programme supports the conservation and restoration of historical monuments through grants awarded to local governments.
 
-This project analyzes the results of the programme's **first edition**, announced in **July 2023**, covering **4,807 funded projects** with a total value of approximately **PLN 2.51 billion**.
+This project analyzes the results of the programme's **first edition**, announced in **July 2023**, covering **4,807 funded projects** with a total value of approximately **2.51 billion PLN**.
 
 The analysis combines business intelligence techniques in Power BI with spatial analysis in QGIS to explore how heritage funding is distributed across Poland.
 
