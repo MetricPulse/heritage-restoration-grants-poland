@@ -116,7 +116,7 @@ The analysis highlights several regional and structural patterns in the programm
 
 ## GIS Analysis
 
-<img width="3507" height="2480" alt="County-level funding per resident map" src="https://github.com/user-attachments/assets/91c71340-e48c-4d9f-8bc2-646bb8c43077" />
+<img width="3507" alt="County-level funding per resident map" src="images/funding_per_resident_map.jpg" />
 
 The GIS component presents a **county-level choropleth map** showing heritage restoration funding per resident across Poland.
 
