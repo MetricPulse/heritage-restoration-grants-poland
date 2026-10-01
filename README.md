@@ -105,11 +105,11 @@ Allow the analysis to be narrowed down to selected voivodeships and heritage sit
 
 The analysis highlights several regional and structural patterns in the programme's first edition.
 
-- The programme covered **4,807 projects** with total funding of approximately **PLN 2.51 billion**.
-- **Mazowieckie** received the highest total funding among voivodeships, with approximately **PLN 265.6 million**.
-- Other highly funded voivodeships included **Wielkopolskie (PLN 218.6 million)**, **Lubelskie (PLN 206.0 million)** and **Małopolskie (PLN 201.9 million)**.
+- The programme covered **4,807 projects** with total funding of approximately **2.51 billion PLN**.
+- **Mazowieckie** received the highest total funding among voivodeships, with approximately **265.6 million PLN**.
+- Other highly funded voivodeships included **Wielkopolskie (218.6 million PLN)**, **Lubelskie (206.0 million PLN)** and **Małopolskie (201.9 million PLN)**.
 - **Religious heritage** represents the largest heritage site category in the analysed programme, accounting for the largest share of both projects and funding.
-- At county level, **Kielecki County** recorded the highest total funding in the displayed ranking, at approximately **PLN 22.4 million**.
+- At county level, **Kielecki County** recorded the highest total funding in the displayed ranking, at approximately **22.4 million PLN**.
 - Looking at funding per resident provides a different perspective from total funding and reveals substantial variation in funding intensity across Polish counties.
 
 ---
